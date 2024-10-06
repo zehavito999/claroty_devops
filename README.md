@@ -1,2 +1,2 @@
-# claroty_devops
-Claroty devops home assignment
+# vicarius_devops
+Vicarius devops home assignment
